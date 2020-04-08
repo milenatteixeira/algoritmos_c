@@ -1,0 +1,16 @@
+Caderneta
+Nota :10,00
+Nota :10,00
+Nota :10,00
+Média: 7,50
+
+Caderneta
+Nota :10,00
+Nota :8,50
+Nota :10,00
+Média: 7,13
+Caderneta
+Nota :5,00
+Nota :6,00
+Nota :4,00
+Média: 3,75
